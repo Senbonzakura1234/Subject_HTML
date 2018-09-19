@@ -1,0 +1,21 @@
+body{background: #ffffff}
+div{
+	text-align: center;
+}
+h1{	
+	font-size: 50px;
+	font-family: Arial;
+	color: #FF3030;
+	text-decoration: underline overline;
+}
+.product-name{
+	font-size: 20px;
+	font-family: Arial;
+	color: #34404b;
+}
+p{
+	font-size: 20px;
+	font-family: Arial;
+	color: #ff6422;
+	font-weight: 1000;
+}

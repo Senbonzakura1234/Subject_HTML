@@ -1,0 +1,22 @@
+/*
+comment
+text-decoration: line-through underline overline;
+text-indent: px;
+text-transform: uppercase lowercase capitalize;
+font-style: italic bold;
+font-variant: ;
+*/
+*/
+padding: (up) px (right) px (down) px  (left)
+(nếu chỉ có 1 giá trị, lấy giá trị duy nhất copy cho các giá trị còn lại, nếu có ít hơn 4, giá trị nào thiếu sẽ lấy giá trị đối diện nó);
+padding-top:;
+padding-right:;
+padding-bottom:;
+padding-left:;
+
+margin: ('size') px;
+
+border: ('size') px solid/dashed('style') ('color')
+width: ('size') px;
+height: ('size') px;
+*/
