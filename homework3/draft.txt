@@ -1,0 +1,33 @@
+<div class="Categories">
+		<div class="Section Title">
+			<p>Categories</p>
+		</div>
+		<br>
+		<div class="Filters">
+			<p>Men</p>
+			<br>
+			<p>Women</p>
+			<br>
+			<p>Children</p>
+			<br>
+			<p>Hot Deals</p>
+			<br>
+		</div>
+	</div> 
+	
+	<div class="Price Filtter">
+		<div class="Section Title">
+			<p>Price Filtter</p>
+		</div>
+		<br>
+		<div class="Filters">
+			<p>Men</p>
+			<br>
+			<p>Women</p>
+			<br>
+			<p>Children</p>
+			<br>
+			<p>Hot Deals</p>
+			<br>
+		</div>
+	</div>

@@ -1,9 +1,16 @@
 body{background-image: url("snowy-christmas-background-vector.jpg")}
 
-h1{
-	font-size: 100px;
-	font-family: Times new roman;
-	color: #ffffff;
+#caption{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    font-size: 20px;
+    line-height: 30px;
+    height:30px;
+    width: 100%;
+    white-space: nowrap;
+    -moz-animation:  caption 50s linear 0s infinite;
+    -webkit-animation:  caption 50s linear 0s infinite;
 }
 b{
 	font-size: 25px;

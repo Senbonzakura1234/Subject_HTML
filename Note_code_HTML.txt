@@ -19,4 +19,17 @@ margin: ('size') px;
 border: ('size') px solid/dashed('style') ('color')
 width: ('size') px;
 height: ('size') px;
+
+
 */
+
+cách lấy khoảng cách
+ 
+F8
+ 
+lấy font
+
+CTRL + T 
+
+
+figcaption
